@@ -5,8 +5,8 @@ Inspired by Taposh Adhikary, I’ve committed to a 40-day challenge to level up 
 🎯 The Goal
 To go from "What is a closure?" to building functional, efficient, and clean JS applications.
 
-Start Date: [Insert Date]
+Start Date: 01/4/2026
 
-Current Status: Day [XX] / 40
+
 
 Final Objective: Master ES6+, Asynchronous JS, and DOM Manipulation.
